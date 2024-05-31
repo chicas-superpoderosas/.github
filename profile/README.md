@@ -302,5 +302,12 @@ export const styles = StyleSheet.create({
 4. Sube los cambios a tu rama (git push origin feature/nueva-funcionalidad).
 5. Crea un nuevo Pull Request.
 
+### Dónde encontrar el proyecto
+
+Para encontrar los archivos del proyecto, ve al repositorio "carpetas". 
+
+### Contacto 
+
+Cualquier duda al correo chicasuperinglsf@gmail.com
    
 
